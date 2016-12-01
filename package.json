@@ -1,0 +1,31 @@
+{
+  "name": "protobuf-encoder-js",
+  "version": "0.0.1",
+  "description": "JS Encoder for protobuff, just give it file name and it will give you all required functions to encode and decode stuff. — Edit",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmantahirr/protobuf-encoder-js.git"
+  },
+  "author": "Usman Tahir <ch.usman.tahir@gmail.com> (usmantahirr.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usmantahirr/protobuf-encoder-js/issues"
+  },
+  "homepage": "https://github.com/usmantahirr/protobuf-encoder-js#readme",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": " <>",
+  "dependencies": {
+    "debug": "^2.3.3",
+    "protobufjs": "dcodeio/protobuf.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
