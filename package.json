@@ -1,6 +1,6 @@
 {
   "name": "protobuf-encoder-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "JS Encoder for protobuff, just give it file name and it will give you all required functions to encode and decode stuff. — Edit",
   "main": "index.js",
   "repository": {
