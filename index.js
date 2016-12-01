@@ -22,8 +22,6 @@ class ProtocolBuffer {
     let file = '';
     this.message = '';
 
-    console.log('init protobuf');
-
     if (path) {
       file = path + name + '.proto';
     } else {
